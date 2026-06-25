@@ -7,9 +7,7 @@ Official PyTorch implementation of **CF-NODE**, a Test-Time Adaptation (TTA) fra
 
 > **CF-NODE: Counterfactual Spatial Node Intervention for Test-Time Adaptation in Diabetic Retinopathy Grading**
 
-<p align="center">
-  <img width="241" height="355" alt="image" src="https://github.com/user-attachments/assets/3e8f4aa8-e361-48f7-b2d1-4eb3e513f4cc" />
-</p>
+<img width="1024" height="1536" alt="ChatGPT Image Jun 9, 2026, 03_53_35 PM" src="https://github.com/user-attachments/assets/5d3d86cb-0ff5-45d1-aa77-e8b9f6212370" />
 
 ---
 
